@@ -100,7 +100,7 @@ function mainInicio() {
     document.querySelector("#modal-body").innerHTML = inputCheckbox;
   }
   //...
-  let inputsCheckBox = document.querySelectorAll(".modal-body");
+  let inputsCheckBox = document.querySelectorAll(".inputCheckBox");
 
   //Funcion que escucha el click de los checkboxes y pushea a checkboxSelected
   function captureCheckBox() {
