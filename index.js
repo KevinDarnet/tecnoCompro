@@ -90,12 +90,17 @@ function mainInicio() {
   function createCheckbox(listaCategorias) {
     let inputCheckbox = "";
     listaCategorias.forEach((categoria) => {
-      inputCheckbox += `<label class="checkBox p-1"><input type="checkbox" class="inputCheckBox" value="${categoria}"/>${categoria}</label> `;
+      inputCheckbox += `
+      <label class="material-checkbox">
+        <input type="checkbox" class="material-checkbox checkBox p-1 inputCheckBox" value="${categoria}"/>
+        <span class="checkmark"></span>
+        ${categoria}
+      </label> `;
     });
-    document.querySelector("#checksInputs").innerHTML = inputCheckbox;
+    document.querySelector("#modal-body").innerHTML = inputCheckbox;
   }
   //...
-  let inputsCheckBox = document.querySelectorAll(".inputCheckBox");
+  let inputsCheckBox = document.querySelectorAll(".modal-body");
 
   //Funcion que escucha el click de los checkboxes y pushea a checkboxSelected
   function captureCheckBox() {
