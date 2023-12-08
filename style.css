@@ -79,7 +79,7 @@ span {
 }
 /* inicio checks */
 .material-checkbox {
-  width: 45%;
+  width: 100%;
   padding: 0.3rem;
   display: flex;
   align-items: center;
@@ -151,5 +151,8 @@ span {
 @media screen and (min-width: 992px) {
   #dropdown-menu {
     width: 40rem !important;
+  }
+  .material-checkbox {
+    width: 45%;
   }
 }
