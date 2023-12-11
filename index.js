@@ -55,13 +55,13 @@ function mainInicio() {
       html += `   
       <div class="card" style="width: 18rem">
       <img
-        src="https://img.freepik.com/fotos-premium/imagen-telefono-celular-sostenido-mano_959624-2488.jpg?w=2000"
+        src="${carta.imagen}"
         class="card-img-top"
         alt="${carta.Producto}"
       />
       <div class="card-body">
         <p class="card-text">${carta.Producto}</p>
-        <p class="card-text">$ ${carta.Precio}</p>
+     
       </div>
     </div>
     

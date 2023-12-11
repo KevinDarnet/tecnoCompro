@@ -87,7 +87,10 @@ span {
   color: white;
   cursor: pointer;
 }
-
+.card-img-top {
+  height: 18rem;
+  object-fit: contain;
+}
 .material-checkbox input[type="checkbox"] {
   position: absolute;
   opacity: 0;
