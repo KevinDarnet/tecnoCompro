@@ -82,6 +82,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "STROMBERG DJ 6004",
       Marca: "STROMBERG",
+      imagen:
+        "https://stromberg.com.ar/cdn/shop/files/1.Dj-6004.jpg?v=1687368699&width=2048",
     },
     {
       Producto: "DW-DJ8620 PARLANTE DAEWOO TECHNO PRO",
@@ -90,6 +92,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "DAEWOO TECHNO PRO",
       Marca: "DAEWOO",
+      imagen:
+        "https://www.rodo.com.ar/media/catalog/product/cache/855090a5c67e45b26c9e0d345e7592dc/3/5/353862_sistema_audio_daewoo_2.jpg",
     },
     {
       Producto:
@@ -99,6 +103,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "STROMBERG RIOT 2",
       Marca: "STROMBERG",
+      imagen:
+        "https://acdn.mitiendanube.com/stores/076/684/products/parlante-portatil-stromberg-riot-2-bluetooth-100w-011-7220eb5681906463c416497896332154-640-0.jpg",
     },
     {
       Producto: "PANACOM OFFICE METAL CHAIR",
@@ -107,6 +113,8 @@ let stock = {
       Categoría: "Gammer",
       Modelo: "GR / BK GR / BK",
       Marca: "XTRIKE-ME",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_747761-MLA54719120337_032023-O.webp",
     },
     {
       Producto:
@@ -116,6 +124,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "STROMBERG CLASH",
       Marca: "STROMBERG",
+      imagen:
+        "https://www.cordobadigital.net/wp-content/uploads/2021/09/1.-Portada-Clash.jpg",
     },
     {
       Producto: "MICRO SILLA GAMER Y-2669B BLACK&BLUE",
@@ -123,6 +133,8 @@ let stock = {
       "Código de Modelo": "7798162148205",
       Categoría: "Gammer",
       Modelo: "Y-2669B",
+      imagen:
+        "https://images.fravega.com/f1000/bc538a0820c7cbba18c39a888e61a3cc.jpg",
     },
     {
       Producto: "HYLED-32HD7A TV HYLED-32HD7A",
@@ -131,6 +143,8 @@ let stock = {
       Categoría: "TV",
       Modelo: "32HD7A",
       Marca: "HYUNDAI",
+      imagen:
+        "https://baproar.vtexassets.com/arquivos/ids/612004/image-58d4f5a52e70450bb2ba4b07393c7b75.jpg?v=638347195738800000",
     },
     {
       Producto: "SISTEMA DE AUDIO AIWA AW-T600D",
@@ -139,6 +153,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "AW-T600D-SN",
       Marca: "AIWA",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_638793-MLA49173165395_022022-O.webp",
     },
     {
       Producto:
@@ -148,6 +164,7 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "MO-PB280",
       Marca: "MOONKI",
+      imagen: "https://www.mink.com.ar/qloud/ryr/fotos/23252-1.jpg",
     },
     {
       Producto: 'PARLANTE PORTATIL STROMBERG BUMP  (60W 12"W 3"T BT TWS)',
@@ -156,6 +173,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "STROMBERG BUMP",
       Marca: "STROMBERG",
+      imagen:
+        "https://stromberg.com.ar/cdn/shop/files/1.Bump.jpg?v=1687372333&width=2048",
     },
     {
       Producto: "AURICULARES PS5 PULSE 3D INALAMBRICO MIDNIGHT BLACK",
@@ -164,6 +183,8 @@ let stock = {
       Categoría: "Accesorios de Consola",
       Modelo: "PS5",
       Marca: "SONY",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_990628-MLA49220665281_022022-O.webp",
     },
     {
       Producto: "PARLANTE EUROSOUND CHELSEA 15BK ES-SPCH",
@@ -172,6 +193,8 @@ let stock = {
       Categoría: "Parlantes",
       Modelo: "EUROSOUND CHELSEA",
       Marca: "EUROSOND",
+      imagen:
+        "https://www.cetrogar.com.ar/media/catalog/product/1/_/1._hip_15.jpg?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
     },
     {
       Producto: "Tablet AMAZON FIRE HD 8 12TH GEN 32 GB - DENIM ",
@@ -180,6 +203,8 @@ let stock = {
       Categoría: "Tablet",
       Modelo: 'AMAZON FIRE HD 8" 2024',
       Marca: "AMAZON",
+      imagen:
+        "https://carrello.com.ar/ecom/wp-content/uploads/2023/05/denim.jpg",
     },
     {
       Producto: "Tablet AMAZON FIRE HD 8 12TH GEN 32 GB - BLACK ",
@@ -10640,14 +10665,7 @@ let stock = {
       Marca: "STROMBERG",
       imagen: "https://tecnobel.com.ar/wp-content/uploads/2022/02/6004.jpg",
     },
-    {
-      Producto: "DW-DJ8620 PARLANTE DAEWOO TECHNO PRO",
-      Stock: 1,
-      "Código de Modelo": "7798366204219",
-      Categoría: "Parlantes",
-      Modelo: "DAEWOO TECHNO PRO",
-      Marca: "DAEWOO",
-    },
+
     {
       Producto:
         "PARLANTE PORTATIL STROMBERG RIOT2 (CARRITO C/BATERIA/100W RMS-(1X15+1X3))",
@@ -10658,53 +10676,12 @@ let stock = {
       Marca: "STROMBERG",
     },
     {
-      Producto: "PANACOM OFFICE METAL CHAIR",
-      Stock: 1,
-      "Código de Modelo": "7798347603666",
-      Categoría: "Gammer",
-      Modelo: "GR / BK GR / BK",
-      Marca: "XTRIKE-ME",
-    },
-    {
-      Producto:
-        "PARLANTE PORTATIL STROMBERG CLASH (CARRITIO C/BATERIA BT/60W RMS (1X12+1X3))",
-      Stock: 1,
-      "Código de Modelo": "7797026958271",
-      Categoría: "Parlantes",
-      Modelo: "STROMBERG CLASH",
-      Marca: "STROMBERG",
-    },
-    {
-      Producto: "MICRO SILLA GAMER Y-2669B BLACK&BLUE",
-      Stock: 1,
-      "Código de Modelo": "7798162148205",
-      Categoría: "Gammer",
-      Modelo: "Y-2669B",
-    },
-    {
       Producto: "HYLED-32HD7A TV HYLED-32HD7A",
       Stock: 1,
       "Código de Modelo": "7798169447219",
       Categoría: "TV",
       Modelo: "32HD7A",
       Marca: "HYUNDAI",
-    },
-    {
-      Producto: "SISTEMA DE AUDIO AIWA AW-T600D",
-      Stock: 2,
-      "Código de Modelo": "7798111354329",
-      Categoría: "Parlantes",
-      Modelo: "AW-T600D-SN",
-      Marca: "AIWA",
-    },
-    {
-      Producto:
-        'PARLANTE PARTYBOX MOONKI SOUND MO-PB280 - 2X8" - 900W/60W - FRENTE ILUM. ',
-      Stock: 1,
-      "Código de Modelo": "7798135512521",
-      Categoría: "Parlantes",
-      Modelo: "MO-PB280",
-      Marca: "MOONKI",
     },
     {
       Producto: 'PARLANTE PORTATIL STROMBERG BUMP  (60W 12"W 3"T BT TWS)',
@@ -10722,14 +10699,7 @@ let stock = {
       Modelo: "PS5",
       Marca: "SONY",
     },
-    {
-      Producto: "PARLANTE EUROSOUND CHELSEA 15BK ES-SPCH",
-      Stock: 1,
-      "Código de Modelo": "7798366204493",
-      Categoría: "Parlantes",
-      Modelo: "EUROSOUND CHELSEA",
-      Marca: "EUROSOND",
-    },
+
     {
       Producto: "Tablet AMAZON FIRE HD 8 12TH GEN 32 GB - DENIM ",
       Stock: 1,
