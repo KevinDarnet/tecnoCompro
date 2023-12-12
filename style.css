@@ -145,6 +145,29 @@ span {
 
 /* fin checks */
 
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 10px; /* Place the button at the bottom of the page */
+  right: 10px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  outline: none; /* Remove outline */
+  color: black; /* Text color */
+  background-color: #4ba439e1; /* Add a dark-grey background on hover */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  border-radius: 10px; /* Rounded corners */
+  width: 5rem;
+  height: 2rem;
+}
+
+#myBtn:hover {
+  background-color: #4ba439; /* Add a dark-grey background on hover */
+}
+.flecha {
+  width: 1rem;
+  margin-left: 0.2rem;
+}
+
 @media screen and (max-width: 991) {
   #dropdown-menu {
     width: 100% !important;
