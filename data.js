@@ -164,6 +164,24 @@ let stock = {
       imagen:
         "https://images.fravega.com/f1000/8ab850f30448a4d32425248681f40117.jpg",
     },
+    {
+      Producto: `NOTEBOOK CLOUDBOOK ENOVA C141PP-A3-W10H	`,
+      Categoría: "Notebook",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_785822-MLU70498767508_072023-O.webp",
+    },
+    {
+      Producto: `NOTEBOOK GATEWAY GWNC31514 ULTRA SLIM I3-1115G4 128GB SSD`,
+      Categoría: "Notebook",
+      imagen:
+        "https://gatewayusa.com/images/products/GWNC31514/product-top-background-img.png",
+    },
+    {
+      Producto: `NOTEBOOK LENOVO IP 1 C N4120 4GB 128G 11S`,
+      Categoría: "Notebook",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_628724-MLA69758936280_062023-O.webp",
+    },
 
     {
       Producto: "SISTEMA DE AUDIO AIWA AW-T600D",
