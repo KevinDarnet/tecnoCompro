@@ -147,6 +147,25 @@ let stock = {
         "https://baproar.vtexassets.com/arquivos/ids/612004/image-58d4f5a52e70450bb2ba4b07393c7b75.jpg?v=638347195738800000",
     },
     {
+      Producto: `Smart TV 4K UHD Samsung 55" UN55AU7000`,
+      Categoría: "TV",
+      imagen:
+        "https://images.fravega.com/f1000/799a8ceaf934954792eea028e9b44cfd.jpg",
+    },
+    {
+      Producto: `Smart TV 4K UHD Samsung 65"`,
+      Categoría: "TV",
+      imagen:
+        "https://images.fravega.com/f1000/e0f74f5cf472b2a52baaa66ce0e17baa.jpg",
+    },
+    {
+      Producto: `Smart TV LED 75” 4K UHD Samsung`,
+      Categoría: "TV",
+      imagen:
+        "https://images.fravega.com/f1000/8ab850f30448a4d32425248681f40117.jpg",
+    },
+
+    {
       Producto: "SISTEMA DE AUDIO AIWA AW-T600D",
       Stock: 2,
       "Código de Modelo": "7798111354329",
