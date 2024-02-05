@@ -1719,36 +1719,6 @@ let stock = {
     },
 
     /* CELULARES */
-    {
-      Producto: " BLU J9L DUAL SIM 32+2 NEGRO",
-      Modelo: "J0092WW",
-      Categoría: "Celulares",
-      imagen:
-        "https://images.fravega.com/f500/18d20983afd15dcc0028957b8f12172d.jpg",
-    },
-    {
-      Producto: '  Quantum Q03 6.22" octa-core 2+64 GB 8+5MP Android 13 Gris',
-      Modelo: "Q03-GR-TDF",
-      Categoría: "Celulares",
-      imagen:
-        "https://http2.mlstatic.com/D_NQ_NP_764209-MLA71391921818_082023-O.webp",
-    },
-
-    {
-      Producto: '  Quantum QRASH 6" Octa Core 32/2 GB 8/8MP Android 11Go Negro',
-      Modelo: "S600-AR-TDF",
-      Categoría: "Celulares",
-      imagen:
-        "https://images.fravega.com/f1000/8cc66d4d57fe08f52b2c951927dac905.jpg",
-    },
-    {
-      Producto:
-        '  Quantum YOLO PLUS 5" 4G quad-core 2/32 GB 1372 MP Android 13 Gris',
-      Modelo: "YOLOPLUS-NE-TDF",
-      Categoría: "Celulares",
-      imagen:
-        "https://www.megatone.net/images//Articulos/zoom2x/209/MKT0260PHO-1.jpg",
-    },
 
     {
       Producto: " GALAXY Z FLIP4  SM-F721B 256G LB ARO BLUE LIBRE",
@@ -2019,6 +1989,37 @@ let stock = {
       imagen:
         "https://d2aojnqfro6rv3.cloudfront.net/268499-medium_default/xiaomi-redmi-12-c-4-gb-ram-128-gb-rom-lavender-purple.jpg",
     },
+    {
+      Producto: " BLU J9L DUAL SIM 32+2 NEGRO",
+      Modelo: "J0092WW",
+      Categoría: "Celulares",
+      imagen:
+        "https://images.fravega.com/f500/18d20983afd15dcc0028957b8f12172d.jpg",
+    },
+    {
+      Producto: '  Quantum Q03 6.22" octa-core 2+64 GB 8+5MP Android 13 Gris',
+      Modelo: "Q03-GR-TDF",
+      Categoría: "Celulares",
+      imagen:
+        "https://http2.mlstatic.com/D_NQ_NP_764209-MLA71391921818_082023-O.webp",
+    },
+
+    {
+      Producto: '  Quantum QRASH 6" Octa Core 32/2 GB 8/8MP Android 11Go Negro',
+      Modelo: "S600-AR-TDF",
+      Categoría: "Celulares",
+      imagen:
+        "https://images.fravega.com/f1000/8cc66d4d57fe08f52b2c951927dac905.jpg",
+    },
+    {
+      Producto:
+        '  Quantum YOLO PLUS 5" 4G quad-core 2/32 GB 1372 MP Android 13 Gris',
+      Modelo: "YOLOPLUS-NE-TDF",
+      Categoría: "Celulares",
+      imagen:
+        "https://www.megatone.net/images//Articulos/zoom2x/209/MKT0260PHO-1.jpg",
+    },
+
     /* FIN CELULARES */
   ],
 };
