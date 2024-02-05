@@ -288,6 +288,12 @@ let stock = {
         "https://cigars.roku.com/v1/http%3A%2F%2Fimage.roku.com%2Fw%2Frapid%2Fimages%2Fpdp-carousel-items%2Fc50777c1-f311-4240-9bba-8f8ac54a36c5.png",
     },
     {
+      Producto: "Google Chromecast With Google TV HD",
+      Categoría: "Varios",
+      imagen:
+        "https://www.laeditorial.com.ar/32291-large_default/google-chromecast-with-google-tv-hd.jpg",
+    },
+    {
       Producto: "JOYSTICK PS5 DUALSENSE BLANCO",
       Stock: 1,
       "Código de Modelo": "711719541363",
