@@ -1837,6 +1837,12 @@ let stock = {
         "https://www.deffo.com.ar/wp-content/uploads/2023/10/Moto-G13-Rosa-1.webp",
     },
     {
+      Producto: "TCL 40 NXT PAPER",
+      Categoría: "Celulares",
+      imagen:
+        "https://tienda.personal.com.ar/images/720/webp/TCL_40_NXT_Paper_Midnight_Blue_d1c581c6e9.png",
+    },
+    {
       Producto: " Telefono  TCL 403 2+32 Prime Black RVA",
       Modelo: "T431A-FALCAR11",
       Categoría: "Celulares",
