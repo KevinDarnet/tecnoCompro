@@ -191,6 +191,9 @@ span {
 }
 
 .search-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
   text-align: center;
   bottom: 10px;
@@ -205,6 +208,7 @@ span {
   height: 2rem;
   font-weight: 600;
   color: white;
+  text-decoration: none;
 }
 #myBtn:hover {
   background-color: #4ba439; /* Add a dark-grey background on hover */

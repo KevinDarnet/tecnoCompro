@@ -1479,7 +1479,7 @@ let stock = {
     },
 
     {
-      Producto: "FILMINA HYDROGEL (IMPRESORA)",
+      Producto: "FILMINA HYDROGEL HAXLY",
       Stock: 197,
       "Código de Modelo": "HYDROGEL-HAXLY",
       Categoría: "Hydrogel",
@@ -1742,7 +1742,7 @@ let stock = {
     },
 
     {
-      Producto: "FILMINA HYDROGEL PARA Tablet (IMPRESORA)",
+      Producto: "FILMINA HYDROGEL PARA TABLET",
       Stock: 136,
       "Código de Modelo": "HYDROGELTablet",
       Categoría: "Hydrogel",
