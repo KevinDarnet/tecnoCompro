@@ -38,6 +38,21 @@ h1 {
   border-bottom: 2px solid white;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  color: white;
+}
+.container-fluid {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.container-fluid > a {
+  margin-left: 2rem;
+  display: flex;
+  color: white;
+  text-decoration: none;
+  border: 2px solid #4ba439;
+  padding: 0.4rem;
+  border-radius: 10px;
 }
 .sucursales {
   display: flex;
@@ -50,7 +65,7 @@ h1 {
   justify-content: space-evenly;
 }
 .promo-header img {
-  width: 6rem;
+  width: 20%;
   margin: 0.5rem;
 }
 #sucursales {
