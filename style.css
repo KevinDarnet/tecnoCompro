@@ -53,6 +53,9 @@ h1 {
   width: 6rem;
   margin: 0.5rem;
 }
+#sucursales {
+  width: 30% !important;
+}
 #checksInputs {
   display: flex;
   flex-wrap: wrap;
@@ -240,7 +243,8 @@ span {
     width: 45%;
   }
   .promo-header img {
-    width: 9rem;
+    width: 11rem;
+    height: 16rem;
     margin: 0.5rem;
   }
 }
